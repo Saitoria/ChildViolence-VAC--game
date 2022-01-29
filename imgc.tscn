@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Assets/backgrounds/panda.png" type="Texture" id=1]
+
+[node name="imgc" type="Sprite"]
+scale = Vector2( 0.25, 0.25 )
+texture = ExtResource( 1 )
+offset = Vector2( 50, 50 )
+vframes = 3
+hframes = 3
